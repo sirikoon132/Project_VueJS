@@ -4,6 +4,8 @@
 <script>
 export default {
     name: "TaskList",
-    
+    data(){
+        return [];
+    },
 }
 </script>
